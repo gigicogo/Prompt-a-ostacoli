@@ -98,16 +98,6 @@ Nel pacchetto ZIP sono presenti anche `Guida_del_formatore.txt` (chiavi di corre
 
 Per altri committenti il kit **non richiede modifiche**: i casi sono generici. Se si vogliono sostituire istanze o documenti, occorre intervenire nel file HTML e aggiornare **anche le risposte attese, le regole di blocco e la guida del formatore**; sostituire soltanto il testo a schermo renderebbe incoerente la correzione automatica.
 
-## 10. File del pacchetto
-
-```text
-Laboratorio_IA_PA_Istanze.html  # web app autonoma inclusa nello ZIP
-README.MD                       # questo documento
-LEGGIMI.txt                     # istruzioni rapide
-Guida_del_formatore.txt         # indicazioni e soluzioni riservate al formatore
-```
-
-La copia HTML distribuita singolarmente può essere denominata `Laboratorio_IA_PA_Due_Istanze.html`: il funzionamento è lo stesso.
 
 ---
 
