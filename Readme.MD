@@ -91,11 +91,19 @@ Al termine, dalla schermata finale sono disponibili:
 - Le fonti didattiche **non dimostrano la disciplina vigente di un ente reale**. Non riutilizzare avvisi, scadenze o condizioni dell'esercizio come riferimenti normativi autentici.
 - Le condizioni di protezione dei dati dipendono dagli strumenti, dalla configurazione e dalle istruzioni dell'ente. Il completamento del quiz **non equivale a un'autorizzazione o a una verifica GDPR**.
 
+
+**Obiettivo finale:** apprendere a usare l'IA come supporto alla redazione, proteggere i dati prima dell'invio, riscontrare le affermazioni sulle fonti e mantenere **verifica e decisione in capo alle persone competenti**.
+
 ## 9. Riutilizzo e personalizzazione
 
-L'app è libera da ogni diritto
-
+L'app è libera da ogni diritto. Può essere scaricata in codice sorgente e utilizzata ovunque.
 
 ---
 
-**Obiettivo finale:** apprendere a usare l'IA come supporto alla redazione, proteggere i dati prima dell'invio, riscontrare le affermazioni sulle fonti e mantenere **verifica e decisione in capo alle persone competenti**.
+## Risorse collegate
+
+Se questi materiali ti sono utili, puoi seguire anche il resto del lavoro che faccio su AI generativa e divulgazione:
+
+- **Newsletter** – https://gigicogo.substack.com - approfondimenti, casi d’uso e strumenti su AI generativa e content creation.  
+- **Articoli** – https://webeconoscenza.gigicogo.it - guide e riflessioni su Medium / blog, con esempi pratici di utilizzo delle skill.  
+- **Video e podcast** – https://www.youtube.com/@gigicogo - Guide, interviste e tutorial su IA Generativa.
