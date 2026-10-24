@@ -3,8 +3,6 @@
 **Web app didattica autonoma · 2 casi · uso individuale da remoto · durata consigliata: 20–30 minuti per caso**
 
 
-
-
 ## 1. Che cos'è
 
 Una simulazione guidata che accompagna il partecipante **dalla lettura di un'istanza esterna alla predisposizione di una bozza di riscontro interlocutorio**, attraverso ostacoli e controlli progressivi. È progettata per corsi sull'uso responsabile dell'intelligenza artificiale nella Pubblica Amministrazione italiana e può essere riutilizzata con enti diversi.
