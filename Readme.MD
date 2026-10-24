@@ -13,7 +13,7 @@ I due fascicoli sono **interamente fittizi**. I documenti mostrati come “origi
 
 ## 2. Come si avvia
 
-1. Scarica `Laboratorio_IA_PA_Due_Istanze.html` oppure estrai lo ZIP della web app.
+1. Scarica `Laboratorio_IA_PA_Due_Istanze.html`.
 2. Apri il file HTML con un browser aggiornato: **Chrome, Edge, Firefox o Safari**.
 3. Scegli una delle due istanze e procedi seguendo le istruzioni sullo schermo.
 
@@ -84,7 +84,6 @@ Al termine, dalla schermata finale sono disponibili:
 
 **Modalità:** un partecipante per postazione; nessun lavoro di gruppo o breakout room. Il formatore può chiedere in chat quale controllo ha creato più difficoltà, senza raccogliere dati personali. Se alcuni partecipanti finiscono prima, possono provare il secondo caso.
 
-Nel pacchetto ZIP sono presenti anche `Guida_del_formatore.txt` (chiavi di correzione e conduzione) e `LEGGIMI.txt` (istruzioni sintetiche).
 
 ## 8. Limiti e avvertenze
 
@@ -96,7 +95,7 @@ Nel pacchetto ZIP sono presenti anche `Guida_del_formatore.txt` (chiavi di corre
 
 ## 9. Riutilizzo e personalizzazione
 
-Per altri committenti il kit **non richiede modifiche**: i casi sono generici. Se si vogliono sostituire istanze o documenti, occorre intervenire nel file HTML e aggiornare **anche le risposte attese, le regole di blocco e la guida del formatore**; sostituire soltanto il testo a schermo renderebbe incoerente la correzione automatica.
+L'app è libera da ogni diritto
 
 
 ---
